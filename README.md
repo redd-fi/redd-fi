@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @redd-fi
 - 👀 I’m interested in programming and sports
--
+
+
 - 🌱 My skills include:  
       - github  
       - cpp / c / python  
