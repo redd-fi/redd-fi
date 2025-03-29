@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @redd-fi
-- 👀 I’m interested in programming and sports
-
-
-- 🌱 My skills include:  
-      - github  
-      - cpp / c / python  
-      - html and css  
-      - OS: Windows / Ubuntu  
-
-Im going to upload projects here that i have worked on.  
-Feel free to jump around the branches to view different projects of mine.  
+- website 1: introduction to web building
+- website 2: Severance inspired
+- website 3: under progress...
 
 <!---
 redd-fi/redd-fi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
