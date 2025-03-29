@@ -8,8 +8,8 @@
       - html and css  
       - OS: Windows / Ubuntu  
 
-Im going to upload projects here that i have worked on.
-
+Im going to upload projects here that i have worked on.  
+Feel free to jump around the branches to view different projects of mine.  
 
 <!---
 redd-fi/redd-fi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
