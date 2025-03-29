@@ -2,10 +2,10 @@
 - 👀 I’m interested in programming and sports
 -
 - 🌱 My skills include:
-      - github
-      - cpp / c / python
-      - html and css
-      - OS: Windows / Ubuntu
+      - github  
+      - cpp / c / python  
+      - html and css  
+      - OS: Windows / Ubuntu  
 
 Im going to upload projects here that i have worked on.
 S
