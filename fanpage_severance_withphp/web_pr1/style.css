@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
+
+
+
+.t1_header {
+    text-decoration: underline;
+}
+h2 {
+    text-decoration: underline;
+}
+
+.t1_ans1{
+    text-decoration: line-through;
+    color: red;
+}
+.t1_ans2 {
+    text-decoration: underline;
+    font-weight: 900;
+}
+.t1_ans3 {
+    font-weight: 900;
+    text-decoration: overline;
+}
+
+.z2_blu {
+    color: rgb(66, 133, 244);
+}
+.z2_red{
+    color: rgb(234, 67, 53);
+}
+.z2_yel{
+    color: rgb(251, 188, 5);
+}
+.z2_gre{
+    color: rgb(52, 168, 83);
+}
+
+.t2_href {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 3rem;
+    font-family: "McLaren", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.t3{
+    font-family: "Rubik Mono One", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.t3_red{background-color: red;}
+.t3_ora{background-color: orange;}
+.t3_yel{background-color: yellow;}
+.t3_gre{background-color: green;}
+.t3_cya{background-color: cyan;}
+.t3_blu{background-color: blue;}
+.t3_pur{background-color: purple;}
+
+
+.t4_p1{font-size: 30px}
+.t4_p2{font-size: 29px}
+.t4_p3{font-size: 28px}
+.t4_p4{font-size: 51px}
+.t4_p5{font-size: 31px;}
+
+.t4_block{text-align: center;}
+
+blockquote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 0.71;
+}
+.t4 {
+    font-family: "Bowlby One SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #ec155b;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+}
